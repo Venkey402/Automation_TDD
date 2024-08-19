@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="0" failed="4" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-19T16:38:14 IST" name="Suite" finished-at="2024-08-19T16:38:20 IST" duration-ms="5629">
+    <groups>
+    </groups>
+    <test started-at="2024-08-19T16:38:14 IST" name="sanity" finished-at="2024-08-19T16:38:17 IST" duration-ms="3227">
+      <class name="com.venkat.testcases.TC_OrdingAProduct_01">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.venkat.testcases.TC_OrdingAProduct_01@4be29ed9]" started-at="2024-08-19T16:38:14 IST" name="setup" finished-at="2024-08-19T16:38:17 IST" duration-ms="2949" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="orderAProduct()[pri:0, instance:com.venkat.testcases.TC_OrdingAProduct_01@4be29ed9]" started-at="2024-08-19T16:38:17 IST" name="orderAProduct" finished-at="2024-08-19T16:38:17 IST" duration-ms="10" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "String.toString()" because the return value of "org.testng.ITestResult.getTestName()" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "String.toString()" because the return value of "org.testng.ITestResult.getTestName()" is null
+at com.venkat.utilities.ReportingListener.onTestStart(ReportingListener.java:15)
+at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:122)
+at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:647)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:840)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderAProduct -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.venkat.testcases.TC_OrdingAProduct_01@4be29ed9]" started-at="2024-08-19T16:38:17 IST" name="teardown" finished-at="2024-08-19T16:38:17 IST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.venkat.testcases.TC_OrdingAProduct_01 -->
+    </test> <!-- sanity -->
+    <test started-at="2024-08-19T16:38:14 IST" name="test" finished-at="2024-08-19T16:38:17 IST" duration-ms="3304">
+      <class name="com.venkat.testcases.TC_OrdingAProduct_01">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.venkat.testcases.TC_OrdingAProduct_01@496bc455]" started-at="2024-08-19T16:38:14 IST" name="setup" finished-at="2024-08-19T16:38:17 IST" duration-ms="2953" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="orderAProduct()[pri:0, instance:com.venkat.testcases.TC_OrdingAProduct_01@496bc455]" started-at="2024-08-19T16:38:17 IST" name="orderAProduct" finished-at="2024-08-19T16:38:17 IST" duration-ms="0" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "String.toString()" because the return value of "org.testng.ITestResult.getTestName()" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "String.toString()" because the return value of "org.testng.ITestResult.getTestName()" is null
+at com.venkat.utilities.ReportingListener.onTestStart(ReportingListener.java:15)
+at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:122)
+at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:647)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:840)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderAProduct -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.venkat.testcases.TC_OrdingAProduct_01@496bc455]" started-at="2024-08-19T16:38:17 IST" name="teardown" finished-at="2024-08-19T16:38:17 IST" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.venkat.testcases.TC_OrdingAProduct_01 -->
+    </test> <!-- test -->
+    <test started-at="2024-08-19T16:38:14 IST" name="smoke" finished-at="2024-08-19T16:38:19 IST" duration-ms="4689">
+      <class name="com.venkat.testcases.TC_OrdingAProduct_01">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.venkat.testcases.TC_OrdingAProduct_01@8462f31]" started-at="2024-08-19T16:38:14 IST" name="setup" finished-at="2024-08-19T16:38:18 IST" duration-ms="3383" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="orderAProduct()[pri:0, instance:com.venkat.testcases.TC_OrdingAProduct_01@8462f31]" started-at="2024-08-19T16:38:18 IST" name="orderAProduct" finished-at="2024-08-19T16:38:18 IST" duration-ms="3" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "String.toString()" because the return value of "org.testng.ITestResult.getTestName()" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "String.toString()" because the return value of "org.testng.ITestResult.getTestName()" is null
+at com.venkat.utilities.ReportingListener.onTestStart(ReportingListener.java:15)
+at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:122)
+at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:647)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:840)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderAProduct -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.venkat.testcases.TC_OrdingAProduct_01@8462f31]" started-at="2024-08-19T16:38:18 IST" name="teardown" finished-at="2024-08-19T16:38:19 IST" duration-ms="1192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.venkat.testcases.TC_OrdingAProduct_01 -->
+    </test> <!-- smoke -->
+    <test started-at="2024-08-19T16:38:14 IST" name="regression" finished-at="2024-08-19T16:38:20 IST" duration-ms="5629">
+      <class name="com.venkat.testcases.TC_OrdingAProduct_01">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.venkat.testcases.TC_OrdingAProduct_01@3e08ff24]" started-at="2024-08-19T16:38:14 IST" name="setup" finished-at="2024-08-19T16:38:19 IST" duration-ms="4730" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="orderAProduct()[pri:0, instance:com.venkat.testcases.TC_OrdingAProduct_01@3e08ff24]" started-at="2024-08-19T16:38:19 IST" name="orderAProduct" finished-at="2024-08-19T16:38:19 IST" duration-ms="1" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "String.toString()" because the return value of "org.testng.ITestResult.getTestName()" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "String.toString()" because the return value of "org.testng.ITestResult.getTestName()" is null
+at com.venkat.utilities.ReportingListener.onTestStart(ReportingListener.java:15)
+at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:122)
+at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:285)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:647)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:840)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderAProduct -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.venkat.testcases.TC_OrdingAProduct_01@3e08ff24]" started-at="2024-08-19T16:38:19 IST" name="teardown" finished-at="2024-08-19T16:38:20 IST" duration-ms="670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.venkat.testcases.TC_OrdingAProduct_01 -->
+    </test> <!-- regression -->
+  </suite> <!-- Suite -->
+</testng-results>
