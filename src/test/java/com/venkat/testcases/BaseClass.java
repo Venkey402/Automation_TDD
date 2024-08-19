@@ -33,6 +33,7 @@ public class BaseClass {
 			br = rc.getBrowser();
 		}
 		url = rc.getBaseUrl();
+
 		PropertyConfigurator.configure("log4j.properties");
 		if (br.equalsIgnoreCase("chrome")) {
 			WebDriverManager.chromedriver().setup();

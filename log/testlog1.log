@@ -675,3 +675,417 @@
 2024-08-19 16:38:19,244 [TestNG-tests-3] INFO Automation - Browser closed
 2024-08-19 16:38:19,510 [TestNG-tests-2] INFO Automation - Url is opened
 2024-08-19 16:38:20,183 [TestNG-tests-2] INFO Automation - Browser closed
+2024-08-19 16:49:27,762 [TestNG-tests-4] INFO Automation - Chrome driver instance is created
+2024-08-19 16:49:27,762 [TestNG-tests-1] INFO Automation - Chrome driver instance is created
+2024-08-19 16:49:27,799 [TestNG-tests-1] INFO Automation - Browser window got maximized
+2024-08-19 16:49:27,800 [TestNG-tests-4] INFO Automation - Browser window got maximized
+2024-08-19 16:49:27,810 [TestNG-tests-4] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 16:49:27,810 [TestNG-tests-1] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 16:49:27,815 [TestNG-tests-1] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 16:49:27,815 [TestNG-tests-4] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 16:49:27,983 [TestNG-tests-3] INFO Automation - Edge driver instance is created
+2024-08-19 16:49:28,037 [TestNG-tests-3] INFO Automation - Browser window got maximized
+2024-08-19 16:49:28,044 [TestNG-tests-3] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 16:49:28,049 [TestNG-tests-3] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 16:49:28,739 [TestNG-tests-1] INFO Automation - Url is opened
+2024-08-19 16:49:28,892 [TestNG-tests-4] INFO Automation - Url is opened
+2024-08-19 16:49:29,001 [TestNG-tests-1] INFO Automation - Entered product name
+2024-08-19 16:49:29,117 [TestNG-tests-4] INFO Automation - Entered product name
+2024-08-19 16:49:29,140 [TestNG-tests-1] INFO Automation - Product is added to cart
+2024-08-19 16:49:29,258 [TestNG-tests-1] INFO Automation - Clicked on Cart icon
+2024-08-19 16:49:29,279 [TestNG-tests-4] INFO Automation - Product is added to cart
+2024-08-19 16:49:29,395 [TestNG-tests-4] INFO Automation - Clicked on Cart icon
+2024-08-19 16:49:29,460 [TestNG-tests-3] INFO Automation - Url is opened
+2024-08-19 16:49:29,480 [TestNG-tests-1] INFO Automation - Clicked on proceed to checkout
+2024-08-19 16:49:29,587 [TestNG-tests-4] INFO Automation - Clicked on proceed to checkout
+2024-08-19 16:49:29,643 [TestNG-tests-3] INFO Automation - Entered product name
+2024-08-19 16:49:29,749 [TestNG-tests-3] INFO Automation - Product is added to cart
+2024-08-19 16:49:29,822 [TestNG-tests-3] INFO Automation - Clicked on Cart icon
+2024-08-19 16:49:29,889 [TestNG-tests-3] INFO Automation - Clicked on proceed to checkout
+2024-08-19 16:49:30,018 [TestNG-tests-2] INFO Automation - Firefox driver instance is created
+2024-08-19 16:49:30,086 [TestNG-tests-1] INFO Automation - Clicked on place order
+2024-08-19 16:49:30,156 [TestNG-tests-4] INFO Automation - Clicked on place order
+2024-08-19 16:49:30,233 [TestNG-tests-1] INFO Automation - Selected countyIndia
+2024-08-19 16:49:30,278 [TestNG-tests-4] INFO Automation - Selected countyIndia
+2024-08-19 16:49:30,284 [TestNG-tests-1] INFO Automation - Clicked on agreement checkbox
+2024-08-19 16:49:30,303 [TestNG-tests-2] INFO Automation - Browser window got maximized
+2024-08-19 16:49:30,307 [TestNG-tests-2] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 16:49:30,312 [TestNG-tests-2] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 16:49:30,331 [TestNG-tests-4] INFO Automation - Clicked on agreement checkbox
+2024-08-19 16:49:30,340 [TestNG-tests-1] INFO Automation - Clicked on proceed button
+2024-08-19 16:49:30,368 [TestNG-tests-1] INFO Automation - Verified order message success
+2024-08-19 16:49:30,386 [TestNG-tests-4] INFO Automation - Clicked on proceed button
+2024-08-19 16:49:30,415 [TestNG-tests-4] INFO Automation - Verified order message success
+2024-08-19 16:49:30,496 [TestNG-tests-3] INFO Automation - Clicked on place order
+2024-08-19 16:49:30,521 [TestNG-tests-1] INFO Automation - Browser closed
+2024-08-19 16:49:30,550 [TestNG-tests-4] INFO Automation - Browser closed
+2024-08-19 16:49:30,620 [TestNG-tests-3] INFO Automation - Selected countyIndia
+2024-08-19 16:49:30,669 [TestNG-tests-3] INFO Automation - Clicked on agreement checkbox
+2024-08-19 16:49:30,728 [TestNG-tests-3] INFO Automation - Clicked on proceed button
+2024-08-19 16:49:30,757 [TestNG-tests-3] INFO Automation - Verified order message success
+2024-08-19 16:49:32,047 [TestNG-tests-3] INFO Automation - Browser closed
+2024-08-19 16:49:32,520 [TestNG-tests-2] INFO Automation - Url is opened
+2024-08-19 16:49:32,592 [TestNG-tests-2] INFO Automation - Entered product name
+2024-08-19 16:49:32,840 [TestNG-tests-2] INFO Automation - Product is added to cart
+2024-08-19 16:49:33,070 [TestNG-tests-2] INFO Automation - Clicked on Cart icon
+2024-08-19 16:49:33,289 [TestNG-tests-2] INFO Automation - Clicked on proceed to checkout
+2024-08-19 16:49:33,627 [TestNG-tests-2] INFO Automation - Clicked on place order
+2024-08-19 16:49:33,892 [TestNG-tests-2] INFO Automation - Selected countyIndia
+2024-08-19 16:49:34,114 [TestNG-tests-2] INFO Automation - Clicked on agreement checkbox
+2024-08-19 16:49:34,330 [TestNG-tests-2] INFO Automation - Clicked on proceed button
+2024-08-19 16:49:34,347 [TestNG-tests-2] INFO Automation - Verified order message success
+2024-08-19 16:49:35,077 [TestNG-tests-2] INFO Automation - Browser closed
+2024-08-19 16:50:08,287 [TestNG-tests-4] INFO Automation - Chrome driver instance is created
+2024-08-19 16:50:08,287 [TestNG-tests-1] INFO Automation - Chrome driver instance is created
+2024-08-19 16:50:08,354 [TestNG-tests-1] INFO Automation - Browser window got maximized
+2024-08-19 16:50:08,354 [TestNG-tests-4] INFO Automation - Browser window got maximized
+2024-08-19 16:50:08,360 [TestNG-tests-4] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 16:50:08,360 [TestNG-tests-1] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 16:50:08,366 [TestNG-tests-4] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 16:50:08,366 [TestNG-tests-1] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 16:50:08,422 [TestNG-tests-3] INFO Automation - Edge driver instance is created
+2024-08-19 16:50:08,474 [TestNG-tests-3] INFO Automation - Browser window got maximized
+2024-08-19 16:50:08,484 [TestNG-tests-3] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 16:50:08,488 [TestNG-tests-3] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 16:50:09,085 [TestNG-tests-4] INFO Automation - Url is opened
+2024-08-19 16:50:09,103 [TestNG-tests-1] INFO Automation - Url is opened
+2024-08-19 16:50:09,342 [TestNG-tests-1] INFO Automation - Entered product name
+2024-08-19 16:50:09,343 [TestNG-tests-4] INFO Automation - Entered product name
+2024-08-19 16:50:09,439 [TestNG-tests-1] INFO Automation - Product is added to cart
+2024-08-19 16:50:09,445 [TestNG-tests-4] INFO Automation - Product is added to cart
+2024-08-19 16:50:09,467 [TestNG-tests-3] INFO Automation - Url is opened
+2024-08-19 16:50:09,535 [TestNG-tests-1] INFO Automation - Clicked on Cart icon
+2024-08-19 16:50:09,535 [TestNG-tests-4] INFO Automation - Clicked on Cart icon
+2024-08-19 16:50:09,605 [TestNG-tests-4] INFO Automation - Clicked on proceed to checkout
+2024-08-19 16:50:09,613 [TestNG-tests-1] INFO Automation - Clicked on proceed to checkout
+2024-08-19 16:50:09,665 [TestNG-tests-3] INFO Automation - Entered product name
+2024-08-19 16:50:09,785 [TestNG-tests-3] INFO Automation - Product is added to cart
+2024-08-19 16:50:09,848 [TestNG-tests-3] INFO Automation - Clicked on Cart icon
+2024-08-19 16:50:09,919 [TestNG-tests-3] INFO Automation - Clicked on proceed to checkout
+2024-08-19 16:50:10,178 [TestNG-tests-1] INFO Automation - Clicked on place order
+2024-08-19 16:50:10,191 [TestNG-tests-4] INFO Automation - Clicked on place order
+2024-08-19 16:50:10,294 [TestNG-tests-1] INFO Automation - Selected countyIndia
+2024-08-19 16:50:10,300 [TestNG-tests-4] INFO Automation - Selected countyIndia
+2024-08-19 16:50:10,353 [TestNG-tests-1] INFO Automation - Clicked on agreement checkbox
+2024-08-19 16:50:10,360 [TestNG-tests-4] INFO Automation - Clicked on agreement checkbox
+2024-08-19 16:50:10,368 [TestNG-tests-2] INFO Automation - Firefox driver instance is created
+2024-08-19 16:50:10,410 [TestNG-tests-1] INFO Automation - Clicked on proceed button
+2024-08-19 16:50:10,415 [TestNG-tests-4] INFO Automation - Clicked on proceed button
+2024-08-19 16:50:10,439 [TestNG-tests-1] INFO Automation - Verified order message success
+2024-08-19 16:50:10,439 [TestNG-tests-4] INFO Automation - Verified order message success
+2024-08-19 16:50:10,512 [TestNG-tests-3] INFO Automation - Clicked on place order
+2024-08-19 16:50:10,585 [TestNG-tests-1] INFO Automation - Browser closed
+2024-08-19 16:50:10,631 [TestNG-tests-4] INFO Automation - Browser closed
+2024-08-19 16:50:10,634 [TestNG-tests-3] INFO Automation - Selected countyIndia
+2024-08-19 16:50:10,663 [TestNG-tests-2] INFO Automation - Browser window got maximized
+2024-08-19 16:50:10,667 [TestNG-tests-2] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 16:50:10,671 [TestNG-tests-2] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 16:50:10,685 [TestNG-tests-3] INFO Automation - Clicked on agreement checkbox
+2024-08-19 16:50:10,724 [TestNG-tests-3] INFO Automation - Clicked on proceed button
+2024-08-19 16:50:10,750 [TestNG-tests-3] INFO Automation - Verified order message success
+2024-08-19 16:50:11,603 [TestNG-tests-2] INFO Automation - Url is opened
+2024-08-19 16:50:11,679 [TestNG-tests-2] INFO Automation - Entered product name
+2024-08-19 16:50:11,914 [TestNG-tests-2] INFO Automation - Product is added to cart
+2024-08-19 16:50:12,018 [TestNG-tests-3] INFO Automation - Browser closed
+2024-08-19 16:50:12,149 [TestNG-tests-2] INFO Automation - Clicked on Cart icon
+2024-08-19 16:50:12,369 [TestNG-tests-2] INFO Automation - Clicked on proceed to checkout
+2024-08-19 16:50:12,696 [TestNG-tests-2] INFO Automation - Clicked on place order
+2024-08-19 16:50:12,962 [TestNG-tests-2] INFO Automation - Selected countyIndia
+2024-08-19 16:50:13,179 [TestNG-tests-2] INFO Automation - Clicked on agreement checkbox
+2024-08-19 16:50:13,399 [TestNG-tests-2] INFO Automation - Clicked on proceed button
+2024-08-19 16:50:13,413 [TestNG-tests-2] INFO Automation - Verified order message success
+2024-08-19 16:50:14,064 [TestNG-tests-2] INFO Automation - Browser closed
+2024-08-19 16:54:22,361 [TestNG-tests-1] INFO Automation - Chrome driver instance is created
+2024-08-19 16:54:22,361 [TestNG-tests-4] INFO Automation - Chrome driver instance is created
+2024-08-19 16:54:22,372 [TestNG-tests-3] INFO Automation - Edge driver instance is created
+2024-08-19 16:54:22,446 [TestNG-tests-4] INFO Automation - Browser window got maximized
+2024-08-19 16:54:22,450 [TestNG-tests-3] INFO Automation - Browser window got maximized
+2024-08-19 16:54:22,450 [TestNG-tests-1] INFO Automation - Browser window got maximized
+2024-08-19 16:54:22,453 [TestNG-tests-4] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 16:54:22,453 [TestNG-tests-1] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 16:54:22,453 [TestNG-tests-3] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 16:54:22,460 [TestNG-tests-4] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 16:54:22,460 [TestNG-tests-1] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 16:54:22,462 [TestNG-tests-3] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 16:54:23,268 [TestNG-tests-4] INFO Automation - Url is opened
+2024-08-19 16:54:23,338 [TestNG-tests-1] INFO Automation - Url is opened
+2024-08-19 16:54:23,372 [TestNG-tests-3] INFO Automation - Url is opened
+2024-08-19 16:54:23,508 [TestNG-tests-4] INFO Automation - Entered product name
+2024-08-19 16:54:23,523 [TestNG-tests-1] INFO Automation - Entered product name
+2024-08-19 16:54:23,553 [TestNG-tests-3] INFO Automation - Entered product name
+2024-08-19 16:54:23,621 [TestNG-tests-4] INFO Automation - Product is added to cart
+2024-08-19 16:54:23,636 [TestNG-tests-1] INFO Automation - Product is added to cart
+2024-08-19 16:54:23,674 [TestNG-tests-3] INFO Automation - Product is added to cart
+2024-08-19 16:54:23,710 [TestNG-tests-4] INFO Automation - Clicked on Cart icon
+2024-08-19 16:54:23,734 [TestNG-tests-1] INFO Automation - Clicked on Cart icon
+2024-08-19 16:54:23,793 [TestNG-tests-3] INFO Automation - Clicked on Cart icon
+2024-08-19 16:54:23,951 [TestNG-tests-4] INFO Automation - Clicked on proceed to checkout
+2024-08-19 16:54:23,956 [TestNG-tests-1] INFO Automation - Clicked on proceed to checkout
+2024-08-19 16:54:24,006 [TestNG-tests-3] INFO Automation - Clicked on proceed to checkout
+2024-08-19 16:54:24,383 [TestNG-tests-2] INFO Automation - Firefox driver instance is created
+2024-08-19 16:54:24,524 [TestNG-tests-4] INFO Automation - Clicked on place order
+2024-08-19 16:54:24,524 [TestNG-tests-1] INFO Automation - Clicked on place order
+2024-08-19 16:54:24,598 [TestNG-tests-3] INFO Automation - Clicked on place order
+2024-08-19 16:54:24,656 [TestNG-tests-2] INFO Automation - Browser window got maximized
+2024-08-19 16:54:24,660 [TestNG-tests-2] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 16:54:24,667 [TestNG-tests-2] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 16:54:24,668 [TestNG-tests-1] INFO Automation - Selected countyIndia
+2024-08-19 16:54:24,668 [TestNG-tests-4] INFO Automation - Selected countyIndia
+2024-08-19 16:54:24,727 [TestNG-tests-1] INFO Automation - Clicked on agreement checkbox
+2024-08-19 16:54:24,727 [TestNG-tests-4] INFO Automation - Clicked on agreement checkbox
+2024-08-19 16:54:24,730 [TestNG-tests-3] INFO Automation - Selected countyIndia
+2024-08-19 16:54:24,772 [TestNG-tests-1] INFO Automation - Clicked on proceed button
+2024-08-19 16:54:24,772 [TestNG-tests-4] INFO Automation - Clicked on proceed button
+2024-08-19 16:54:24,774 [TestNG-tests-3] INFO Automation - Clicked on agreement checkbox
+2024-08-19 16:54:24,805 [TestNG-tests-4] INFO Automation - Verified order message success
+2024-08-19 16:54:24,805 [TestNG-tests-1] INFO Automation - Verified order message success
+2024-08-19 16:54:24,827 [TestNG-tests-3] INFO Automation - Clicked on proceed button
+2024-08-19 16:54:24,853 [TestNG-tests-3] INFO Automation - Verified order message success
+2024-08-19 16:54:24,967 [TestNG-tests-4] INFO Automation - Browser closed
+2024-08-19 16:54:24,997 [TestNG-tests-1] INFO Automation - Browser closed
+2024-08-19 16:54:25,770 [TestNG-tests-2] INFO Automation - Url is opened
+2024-08-19 16:54:25,836 [TestNG-tests-2] INFO Automation - Entered product name
+2024-08-19 16:54:26,081 [TestNG-tests-2] INFO Automation - Product is added to cart
+2024-08-19 16:54:26,137 [TestNG-tests-3] INFO Automation - Browser closed
+2024-08-19 16:54:26,311 [TestNG-tests-2] INFO Automation - Clicked on Cart icon
+2024-08-19 16:54:26,528 [TestNG-tests-2] INFO Automation - Clicked on proceed to checkout
+2024-08-19 16:54:26,858 [TestNG-tests-2] INFO Automation - Clicked on place order
+2024-08-19 16:54:27,118 [TestNG-tests-2] INFO Automation - Selected countyIndia
+2024-08-19 16:54:27,336 [TestNG-tests-2] INFO Automation - Clicked on agreement checkbox
+2024-08-19 16:54:27,553 [TestNG-tests-2] INFO Automation - Clicked on proceed button
+2024-08-19 16:54:27,564 [TestNG-tests-2] INFO Automation - Verified order message success
+2024-08-19 16:54:28,218 [TestNG-tests-2] INFO Automation - Browser closed
+2024-08-19 17:00:27,030 [TestNG-tests-3] INFO Automation - invalid browser passed
+2024-08-19 17:00:27,032 [TestNG-tests-2] INFO Automation - invalid browser passed
+2024-08-19 17:00:27,072 [TestNG-tests-4] INFO Automation - invalid browser passed
+2024-08-19 17:00:27,074 [TestNG-tests-1] INFO Automation - invalid browser passed
+2024-08-19 17:04:25,946 [TestNG-tests-1] INFO Automation - invalid browser passed
+2024-08-19 17:04:25,943 [TestNG-tests-2] INFO Automation - invalid browser passed
+2024-08-19 17:04:25,980 [TestNG-tests-3] INFO Automation - Taking browser from system properties
+2024-08-19 17:04:25,980 [TestNG-tests-4] INFO Automation - Taking browser from system properties
+2024-08-19 17:04:25,982 [TestNG-tests-3] INFO Automation - invalid browser passed
+2024-08-19 17:04:25,984 [TestNG-tests-4] INFO Automation - invalid browser passed
+2024-08-19 17:05:00,726 [main] INFO Automation - invalid browser passed
+2024-08-19 17:05:00,990 [main] INFO Automation - Taking browser from system properties
+2024-08-19 17:05:00,994 [main] INFO Automation - invalid browser passed
+2024-08-19 17:05:01,062 [main] INFO Automation - Taking browser from system properties
+2024-08-19 17:05:01,064 [main] INFO Automation - invalid browser passed
+2024-08-19 17:05:01,112 [main] INFO Automation - Taking browser from system properties
+2024-08-19 17:05:01,114 [main] INFO Automation - invalid browser passed
+2024-08-19 17:07:33,921 [main] INFO Automation - invalid browser passed
+2024-08-19 17:07:34,191 [main] INFO Automation - Taking browser from system properties
+2024-08-19 17:07:34,194 [main] INFO Automation - invalid browser passed
+2024-08-19 17:07:34,248 [main] INFO Automation - Taking browser from system properties
+2024-08-19 17:07:34,251 [main] INFO Automation - invalid browser passed
+2024-08-19 17:07:34,294 [main] INFO Automation - Taking browser from system properties
+2024-08-19 17:07:34,296 [main] INFO Automation - invalid browser passed
+2024-08-19 17:08:30,627 [main] INFO Automation - invalid browser passed
+2024-08-19 17:08:30,890 [main] INFO Automation - Taking browser from system propertiesbrowser
+2024-08-19 17:08:30,893 [main] INFO Automation - invalid browser passed
+2024-08-19 17:08:30,961 [main] INFO Automation - Taking browser from system propertiesbrowser
+2024-08-19 17:08:30,965 [main] INFO Automation - invalid browser passed
+2024-08-19 17:08:31,009 [main] INFO Automation - Taking browser from system propertiesbrowser
+2024-08-19 17:08:31,011 [main] INFO Automation - invalid browser passed
+2024-08-19 17:10:44,843 [main] INFO Automation - invalid browser passed
+2024-08-19 17:10:45,097 [main] INFO Automation - Taking browser from TestNG.xml parameters $browser
+2024-08-19 17:10:45,101 [main] INFO Automation - invalid browser passed
+2024-08-19 17:10:45,159 [main] INFO Automation - Taking browser from TestNG.xml parameters $browser
+2024-08-19 17:10:45,163 [main] INFO Automation - invalid browser passed
+2024-08-19 17:10:45,214 [main] INFO Automation - Taking browser from TestNG.xml parameters $browser
+2024-08-19 17:10:45,217 [main] INFO Automation - invalid browser passed
+2024-08-19 17:11:27,364 [main] INFO Automation - invalid browser passed
+2024-08-19 17:11:27,633 [main] INFO Automation - invalid browser passed
+2024-08-19 17:11:27,688 [main] INFO Automation - invalid browser passed
+2024-08-19 17:11:27,738 [main] INFO Automation - invalid browser passed
+2024-08-19 17:12:39,167 [main] INFO Automation - Chrome driver instance is created
+2024-08-19 17:12:39,200 [main] INFO Automation - Browser window got maximized
+2024-08-19 17:12:39,206 [main] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 17:12:39,209 [main] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 17:12:39,833 [main] INFO Automation - Url is opened
+2024-08-19 17:12:39,980 [main] INFO Automation - Entered product name
+2024-08-19 17:12:40,044 [main] INFO Automation - Product is added to cart
+2024-08-19 17:12:40,100 [main] INFO Automation - Clicked on Cart icon
+2024-08-19 17:12:40,144 [main] INFO Automation - Clicked on proceed to checkout
+2024-08-19 17:12:40,721 [main] INFO Automation - Clicked on place order
+2024-08-19 17:12:40,808 [main] INFO Automation - Selected countyIndia
+2024-08-19 17:12:40,841 [main] INFO Automation - Clicked on agreement checkbox
+2024-08-19 17:12:40,874 [main] INFO Automation - Clicked on proceed button
+2024-08-19 17:12:40,895 [main] INFO Automation - Verified order message success
+2024-08-19 17:12:41,030 [main] INFO Automation - Browser closed
+2024-08-19 17:12:41,830 [main] INFO Automation - Chrome driver instance is created
+2024-08-19 17:12:41,861 [main] INFO Automation - Browser window got maximized
+2024-08-19 17:12:41,864 [main] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 17:12:41,869 [main] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 17:12:42,625 [main] INFO Automation - Url is opened
+2024-08-19 17:12:42,740 [main] INFO Automation - Entered product name
+2024-08-19 17:12:42,807 [main] INFO Automation - Product is added to cart
+2024-08-19 17:12:42,868 [main] INFO Automation - Clicked on Cart icon
+2024-08-19 17:12:42,922 [main] INFO Automation - Clicked on proceed to checkout
+2024-08-19 17:12:43,484 [main] INFO Automation - Clicked on place order
+2024-08-19 17:12:43,570 [main] INFO Automation - Selected countyIndia
+2024-08-19 17:12:43,606 [main] INFO Automation - Clicked on agreement checkbox
+2024-08-19 17:12:43,638 [main] INFO Automation - Clicked on proceed button
+2024-08-19 17:12:43,655 [main] INFO Automation - Verified order message success
+2024-08-19 17:12:43,773 [main] INFO Automation - Browser closed
+2024-08-19 17:12:44,361 [main] INFO Automation - Chrome driver instance is created
+2024-08-19 17:12:44,387 [main] INFO Automation - Browser window got maximized
+2024-08-19 17:12:44,389 [main] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 17:12:44,391 [main] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 17:12:45,352 [main] INFO Automation - Url is opened
+2024-08-19 17:12:45,463 [main] INFO Automation - Entered product name
+2024-08-19 17:12:45,532 [main] INFO Automation - Product is added to cart
+2024-08-19 17:12:45,592 [main] INFO Automation - Clicked on Cart icon
+2024-08-19 17:12:45,640 [main] INFO Automation - Clicked on proceed to checkout
+2024-08-19 17:12:46,225 [main] INFO Automation - Clicked on place order
+2024-08-19 17:12:46,306 [main] INFO Automation - Selected countyIndia
+2024-08-19 17:12:46,340 [main] INFO Automation - Clicked on agreement checkbox
+2024-08-19 17:12:46,369 [main] INFO Automation - Clicked on proceed button
+2024-08-19 17:12:46,388 [main] INFO Automation - Verified order message success
+2024-08-19 17:12:46,486 [main] INFO Automation - Browser closed
+2024-08-19 17:12:47,139 [main] INFO Automation - Chrome driver instance is created
+2024-08-19 17:12:47,159 [main] INFO Automation - Browser window got maximized
+2024-08-19 17:12:47,161 [main] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 17:12:47,163 [main] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 17:12:47,970 [main] INFO Automation - Url is opened
+2024-08-19 17:12:48,082 [main] INFO Automation - Entered product name
+2024-08-19 17:12:48,149 [main] INFO Automation - Product is added to cart
+2024-08-19 17:12:48,206 [main] INFO Automation - Clicked on Cart icon
+2024-08-19 17:12:48,254 [main] INFO Automation - Clicked on proceed to checkout
+2024-08-19 17:12:48,828 [main] INFO Automation - Clicked on place order
+2024-08-19 17:12:48,914 [main] INFO Automation - Selected countyIndia
+2024-08-19 17:12:48,952 [main] INFO Automation - Clicked on agreement checkbox
+2024-08-19 17:12:48,984 [main] INFO Automation - Clicked on proceed button
+2024-08-19 17:12:49,000 [main] INFO Automation - Verified order message success
+2024-08-19 17:12:49,120 [main] INFO Automation - Browser closed
+2024-08-19 17:13:29,879 [main] INFO Automation - invalid browser passed
+2024-08-19 17:13:30,138 [main] INFO Automation - invalid browser passed
+2024-08-19 17:13:30,196 [main] INFO Automation - invalid browser passed
+2024-08-19 17:13:30,245 [main] INFO Automation - invalid browser passed
+2024-08-19 17:14:41,506 [main] INFO Automation - invalid browser passed
+2024-08-19 17:14:41,767 [main] INFO Automation - invalid browser passed
+2024-08-19 17:14:41,815 [main] INFO Automation - invalid browser passed
+2024-08-19 17:14:41,859 [main] INFO Automation - invalid browser passed
+2024-08-19 17:15:09,579 [main] INFO Automation - Chrome driver instance is created
+2024-08-19 17:15:09,607 [main] INFO Automation - Browser window got maximized
+2024-08-19 17:15:09,610 [main] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 17:15:09,613 [main] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 17:15:10,853 [main] INFO Automation - Url is opened
+2024-08-19 17:15:10,987 [main] INFO Automation - Entered product name
+2024-08-19 17:15:11,056 [main] INFO Automation - Product is added to cart
+2024-08-19 17:15:11,117 [main] INFO Automation - Clicked on Cart icon
+2024-08-19 17:15:11,167 [main] INFO Automation - Clicked on proceed to checkout
+2024-08-19 17:15:11,758 [main] INFO Automation - Clicked on place order
+2024-08-19 17:15:11,849 [main] INFO Automation - Selected countyIndia
+2024-08-19 17:15:11,886 [main] INFO Automation - Clicked on agreement checkbox
+2024-08-19 17:15:11,926 [main] INFO Automation - Clicked on proceed button
+2024-08-19 17:15:11,951 [main] INFO Automation - Verified order message success
+2024-08-19 17:15:12,077 [main] INFO Automation - Browser closed
+2024-08-19 17:15:12,876 [main] INFO Automation - Chrome driver instance is created
+2024-08-19 17:15:12,922 [main] INFO Automation - Browser window got maximized
+2024-08-19 17:15:12,924 [main] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 17:15:12,925 [main] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 17:15:13,896 [main] INFO Automation - Url is opened
+2024-08-19 17:15:14,013 [main] INFO Automation - Entered product name
+2024-08-19 17:15:14,102 [main] INFO Automation - Product is added to cart
+2024-08-19 17:15:14,155 [main] INFO Automation - Clicked on Cart icon
+2024-08-19 17:15:14,201 [main] INFO Automation - Clicked on proceed to checkout
+2024-08-19 17:15:14,765 [main] INFO Automation - Clicked on place order
+2024-08-19 17:15:14,860 [main] INFO Automation - Selected countyIndia
+2024-08-19 17:15:14,899 [main] INFO Automation - Clicked on agreement checkbox
+2024-08-19 17:15:14,933 [main] INFO Automation - Clicked on proceed button
+2024-08-19 17:15:14,951 [main] INFO Automation - Verified order message success
+2024-08-19 17:15:15,070 [main] INFO Automation - Browser closed
+2024-08-19 17:15:15,666 [main] INFO Automation - Chrome driver instance is created
+2024-08-19 17:15:15,701 [main] INFO Automation - Browser window got maximized
+2024-08-19 17:15:15,703 [main] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 17:15:15,705 [main] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 17:15:16,476 [main] INFO Automation - Url is opened
+2024-08-19 17:15:16,589 [main] INFO Automation - Entered product name
+2024-08-19 17:15:16,660 [main] INFO Automation - Product is added to cart
+2024-08-19 17:15:16,724 [main] INFO Automation - Clicked on Cart icon
+2024-08-19 17:15:16,769 [main] INFO Automation - Clicked on proceed to checkout
+2024-08-19 17:15:17,350 [main] INFO Automation - Clicked on place order
+2024-08-19 17:15:17,430 [main] INFO Automation - Selected countyIndia
+2024-08-19 17:15:17,463 [main] INFO Automation - Clicked on agreement checkbox
+2024-08-19 17:15:17,495 [main] INFO Automation - Clicked on proceed button
+2024-08-19 17:15:17,512 [main] INFO Automation - Verified order message success
+2024-08-19 17:15:17,611 [main] INFO Automation - Browser closed
+2024-08-19 17:15:18,251 [main] INFO Automation - Chrome driver instance is created
+2024-08-19 17:15:18,288 [main] INFO Automation - Browser window got maximized
+2024-08-19 17:15:18,290 [main] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 17:15:18,291 [main] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 17:15:19,953 [main] INFO Automation - Url is opened
+2024-08-19 17:15:20,065 [main] INFO Automation - Entered product name
+2024-08-19 17:15:20,132 [main] INFO Automation - Product is added to cart
+2024-08-19 17:15:20,186 [main] INFO Automation - Clicked on Cart icon
+2024-08-19 17:15:20,232 [main] INFO Automation - Clicked on proceed to checkout
+2024-08-19 17:15:20,823 [main] INFO Automation - Clicked on place order
+2024-08-19 17:15:20,903 [main] INFO Automation - Selected countyIndia
+2024-08-19 17:15:20,941 [main] INFO Automation - Clicked on agreement checkbox
+2024-08-19 17:15:20,977 [main] INFO Automation - Clicked on proceed button
+2024-08-19 17:15:20,994 [main] INFO Automation - Verified order message success
+2024-08-19 17:15:21,141 [main] INFO Automation - Browser closed
+2024-08-19 17:16:16,908 [main] INFO Automation - invalid browser passed
+2024-08-19 17:16:17,164 [main] INFO Automation - invalid browser passed
+2024-08-19 17:16:17,206 [main] INFO Automation - invalid browser passed
+2024-08-19 17:16:17,250 [main] INFO Automation - invalid browser passed
+2024-08-19 17:17:24,277 [main] INFO Automation - Edge driver instance is created
+2024-08-19 17:17:24,309 [main] INFO Automation - Browser window got maximized
+2024-08-19 17:17:24,317 [main] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 17:17:24,322 [main] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 17:17:25,017 [main] INFO Automation - Url is opened
+2024-08-19 17:17:25,169 [main] INFO Automation - Entered product name
+2024-08-19 17:17:25,238 [main] INFO Automation - Product is added to cart
+2024-08-19 17:17:25,290 [main] INFO Automation - Clicked on Cart icon
+2024-08-19 17:17:25,338 [main] INFO Automation - Clicked on proceed to checkout
+2024-08-19 17:17:25,933 [main] INFO Automation - Clicked on place order
+2024-08-19 17:17:26,037 [main] INFO Automation - Selected countyIndia
+2024-08-19 17:17:26,072 [main] INFO Automation - Clicked on agreement checkbox
+2024-08-19 17:17:26,104 [main] INFO Automation - Clicked on proceed button
+2024-08-19 17:17:26,128 [main] INFO Automation - Verified order message success
+2024-08-19 17:17:27,346 [main] INFO Automation - Browser closed
+2024-08-19 17:17:28,395 [main] INFO Automation - Edge driver instance is created
+2024-08-19 17:17:28,441 [main] INFO Automation - Browser window got maximized
+2024-08-19 17:17:28,443 [main] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 17:17:28,445 [main] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 17:17:29,181 [main] INFO Automation - Url is opened
+2024-08-19 17:17:29,292 [main] INFO Automation - Entered product name
+2024-08-19 17:17:29,371 [main] INFO Automation - Product is added to cart
+2024-08-19 17:17:29,435 [main] INFO Automation - Clicked on Cart icon
+2024-08-19 17:17:29,482 [main] INFO Automation - Clicked on proceed to checkout
+2024-08-19 17:17:30,066 [main] INFO Automation - Clicked on place order
+2024-08-19 17:17:30,158 [main] INFO Automation - Selected countyIndia
+2024-08-19 17:17:30,194 [main] INFO Automation - Clicked on agreement checkbox
+2024-08-19 17:17:30,227 [main] INFO Automation - Clicked on proceed button
+2024-08-19 17:17:30,246 [main] INFO Automation - Verified order message success
+2024-08-19 17:17:31,443 [main] INFO Automation - Browser closed
+2024-08-19 17:17:32,384 [main] INFO Automation - Edge driver instance is created
+2024-08-19 17:17:32,419 [main] INFO Automation - Browser window got maximized
+2024-08-19 17:17:32,421 [main] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 17:17:32,424 [main] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 17:17:34,586 [main] INFO Automation - Url is opened
+2024-08-19 17:17:34,706 [main] INFO Automation - Entered product name
+2024-08-19 17:17:34,778 [main] INFO Automation - Product is added to cart
+2024-08-19 17:17:34,829 [main] INFO Automation - Clicked on Cart icon
+2024-08-19 17:17:34,873 [main] INFO Automation - Clicked on proceed to checkout
+2024-08-19 17:17:35,456 [main] INFO Automation - Clicked on place order
+2024-08-19 17:17:35,556 [main] INFO Automation - Selected countyIndia
+2024-08-19 17:17:35,588 [main] INFO Automation - Clicked on agreement checkbox
+2024-08-19 17:17:35,621 [main] INFO Automation - Clicked on proceed button
+2024-08-19 17:17:35,643 [main] INFO Automation - Verified order message success
+2024-08-19 17:17:36,846 [main] INFO Automation - Browser closed
+2024-08-19 17:17:37,768 [main] INFO Automation - Edge driver instance is created
+2024-08-19 17:17:37,804 [main] INFO Automation - Browser window got maximized
+2024-08-19 17:17:37,806 [main] INFO Automation - Implicitly wait is set to 10 seconds
+2024-08-19 17:17:37,808 [main] INFO Automation - Pageload time out wait is set to 10 seconds
+2024-08-19 17:17:39,551 [main] INFO Automation - Url is opened
+2024-08-19 17:17:39,666 [main] INFO Automation - Entered product name
+2024-08-19 17:17:39,735 [main] INFO Automation - Product is added to cart
+2024-08-19 17:17:39,801 [main] INFO Automation - Clicked on Cart icon
+2024-08-19 17:17:39,850 [main] INFO Automation - Clicked on proceed to checkout
+2024-08-19 17:17:40,421 [main] INFO Automation - Clicked on place order
+2024-08-19 17:17:40,513 [main] INFO Automation - Selected countyIndia
+2024-08-19 17:17:40,548 [main] INFO Automation - Clicked on agreement checkbox
+2024-08-19 17:17:40,580 [main] INFO Automation - Clicked on proceed button
+2024-08-19 17:17:40,612 [main] INFO Automation - Verified order message success
+2024-08-19 17:17:41,818 [main] INFO Automation - Browser closed

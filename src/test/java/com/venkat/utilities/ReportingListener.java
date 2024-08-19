@@ -5,11 +5,14 @@ import org.testng.ITestListener;
 import org.testng.ITestResult;
 
 import com.aventstack.extentreports.ExtentReports;
+import com.aventstack.extentreports.ExtentTest;
+import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 
 public class ReportingListener implements ITestListener {
 	ExtentSparkReporter reporter;
 	ExtentReports extent;
+	ExtentTest logger;
 
 	public void onStart(ITestContext context) {
 		reporter = new ExtentSparkReporter(".\\test-output\\ExtentReports\\index.html");
@@ -22,19 +25,18 @@ public class ReportingListener implements ITestListener {
 	}
 
 	public void onTestStart(ITestResult result) {
-		extent.createTest(result.getMethod().getMethodName());
+		logger = extent.createTest(result.getMethod().getMethodName());
 	}
 
 	public void onTestSuccess(ITestResult result) {
-		// not implemented
+		logger.log(Status.PASS, "Testcase passed");
 	}
 
 	public void onTestFailure(ITestResult result) {
-		// not implemented
-	}
+		logger.log(Status.FAIL, "Testcase passed");	}
 
 	public void onTestSkipped(ITestResult result) {
-		// not implemented
+		logger.log(Status.SKIP, "Testcase passed");	
 	}
 
 	public void onTestFailedButWithinSuccessPercentage(ITestResult result) {
